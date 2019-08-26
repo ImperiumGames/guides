@@ -172,9 +172,11 @@ https://media.discordapp.net/attachments/614028663003807774/615466568872230913/2
 
 https://cdn.discordapp.com/attachments/614028663003807774/615467059027116039/3.png
 
-Последнее обновление:  02.07.2019
-Создано:  14.05.2019
-Авторы:  Fatalistype и EmptyHeart
+Последнее обновление: 02.07.2019
+Создано: 14.05.2019
+Авторы: EmptyHeart и Fatalistype
+
+https://media.discordapp.net/attachments/469842323875037190/608275377722359817/tupaya_rusnya.png?width=1202&height=677
 
 _**ПВП**_
 
