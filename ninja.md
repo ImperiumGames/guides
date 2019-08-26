@@ -196,4 +196,8 @@ https://media.discordapp.net/attachments/614028663003807774/614473431978737665/n
 
 https://media.discordapp.net/attachments/444427327116541952/539509122878406666/unknown.png
 
+https://media.discordapp.net/attachments/614028663003807774/615481213582442508/4.png
 
+https://cdn.discordapp.com/attachments/614028663003807774/615481874856280064/5.png
+
+https://cdn.discordapp.com/attachments/614028663003807774/615482152217215005/6.png
