@@ -15,9 +15,9 @@ _косо_
 ##### З-5
 ###### З-6
 
+_**ПВЕ**_
 
-
-Экипировка
+**Экипировка**
 
  В первую очередь стоит сказать, что шиноби очень критозависимый класс, так что нужно стремится к значению в +310-330 зеленого крита(без аур мистика/баранины и т.п.). 
 Когда вы начнете испытывать избыток зеленого крита, следует заменить что-то из этого: 
@@ -29,7 +29,7 @@ https://media.discordapp.net/attachments/614028663003807774/614468459409047553/Z
 
 https://media.discordapp.net/attachments/614028663003807774/614468515428302878/K-Err2E4Yf2xLRbq-AXLa0ZC0u6wNYnBNC1FkwF8LHyj18lz5_kYRYoTFfLBxyJDaYUx_QNPpEG3tVTwAeIvUUpCySljQvYKTon-.png?width=236&height=676
 
-Реликвия и артефакт
+**Реликвия и артефакт**
 
 Рекомендуется собирать на силу потому что:
 
@@ -51,7 +51,8 @@ https://cdn.discordapp.com/attachments/614028663003807774/615484031039176716/7.p
 В кольцах брать +4 к силе, в серьгах +4 к выносливости.
 (При наличии IV гравировок и тройного удара 60/60: кольца - сила, серьги - крит.)
 
-Глифы
+**Глифы**
+
 Начальный глифбилд - 65 уровень, 0 талантов.
 
 https://cdn.discordapp.com/attachments/614028663003807774/614468881615945728/4gz_JtO0QbUrvA35Gbjn7ejNOV7Z__GiUdCnaAYQbQ3G8j7fo6dPj8SaMvpcQeZNFxvQsz2RMJ6ngtySrTCy_UA6_gJFhFLwLxzL.png
@@ -67,7 +68,7 @@ https://cdn.discordapp.com/attachments/614028663003807774/614469023475826688/U7L
 Может изменяться по желанию. На данном этапе образуется “свой стиль игры”, поэтому конечные глифбилды у разных людей могут отличаться.
 *Глиф на Молниеносный выпад получается после достижения 70 уровня.
 
-Таланты
+**Таланты**
 
 https://media.discordapp.net/attachments/614028663003807774/614469142421962787/OYqhsecfLtoXvzGGFxHw8nLKB50FmAYkKOmDYd8EtATxoFAEVOg6ifzDOZrDvxi1gO_Yky6YW2kM5f5EkoSRsxFy45bI1QaBmNUn.png
 
@@ -81,7 +82,7 @@ https://media.discordapp.net/attachments/614028663003807774/614469142421962787/O
 
 После, можно прокачать [Общее]Надежная защита, [Бросок кинжалов]Перезарядка, [Обманный маневр]Скорость.
 
-Рекомендуемая последовательность прокачки умений:
+**Рекомендуемая последовательность прокачки умений**
 
 1. Бросок кинжалов
     Дает силу персонажу, на максимальном уровне прокачки - 20,
@@ -163,7 +164,7 @@ II Основной талиф.
 https://media.discordapp.net/attachments/614028663003807774/614472152187666433/osSPi5QvPRg8w1gwpmq3QcU_La7VPsPe7YWZf42zPKNOg-7Q8HUdLfFFMcQBhT5v5EKjXBhck49hXKyYBUv7ugitorWLIzDNaVoA.png?width=327&height=676
 
 
-Ротации
+**Ротации**
 
 https://media.discordapp.net/attachments/614028663003807774/615465870470283275/5ae85038feb26900.png
 
@@ -175,7 +176,7 @@ https://cdn.discordapp.com/attachments/614028663003807774/615467059027116039/3.p
 Создано:  14.05.2019
 Авторы:  Fatalistype и EmptyHeart
 
-ПВП
+_**ПВП**_
 
 https://media.discordapp.net/attachments/614028663003807774/614473406112333835/I9Q33LnntV7QrUkzDACpFfPjPoW-8ru_XXri79yEebJOq3Rm0vDTY-R-9v6BjmzsbYBnb_3lv2QBEu7mHDjdptVH0jRr4hZ7yXPf.png
 
