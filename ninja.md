@@ -23,11 +23,11 @@ _**ПВЕ**_
 Когда вы начнете испытывать избыток зеленого крита, следует заменить что-то из этого: 
 вирски > элемент(ы) бижутерии: серьгу/амулет/кольцо, на силовые.
 
-https://cdn.discordapp.com/attachments/614028663003807774/614468349216161812/KszL3BI_M86bnhKvBECL9GTxXnUbinXblmwXBV7hFGAtJbluD7i6WRVvLrJb4Ufjg9ECJ9w4pfFfRReyxEVLZ8P9MJLfq4TTsjMT.png
+<img src="https://cdn.discordapp.com/attachments/614028663003807774/614468349216161812/KszL3BI_M86bnhKvBECL9GTxXnUbinXblmwXBV7hFGAtJbluD7i6WRVvLrJb4Ufjg9ECJ9w4pfFfRReyxEVLZ8P9MJLfq4TTsjMT.png" />
 
-https://media.discordapp.net/attachments/614028663003807774/614468459409047553/ZDWHw14IsVAXYQlM-_B6UxDD93PT4XEgbJ3IVaAUGHpF2DfEGjXslIUevMEFresdbAQLd1YE2bUfdgH69l5RiF61d5bAFefodt7t.png?width=236&height=676
+<img src="https://media.discordapp.net/attachments/614028663003807774/614468459409047553/ZDWHw14IsVAXYQlM-_B6UxDD93PT4XEgbJ3IVaAUGHpF2DfEGjXslIUevMEFresdbAQLd1YE2bUfdgH69l5RiF61d5bAFefodt7t.png" />
 
-https://media.discordapp.net/attachments/614028663003807774/614468515428302878/K-Err2E4Yf2xLRbq-AXLa0ZC0u6wNYnBNC1FkwF8LHyj18lz5_kYRYoTFfLBxyJDaYUx_QNPpEG3tVTwAeIvUUpCySljQvYKTon-.png?width=236&height=676
+<img src="https://media.discordapp.net/attachments/614028663003807774/614468515428302878/K-Err2E4Yf2xLRbq-AXLa0ZC0u6wNYnBNC1FkwF8LHyj18lz5_kYRYoTFfLBxyJDaYUx_QNPpEG3tVTwAeIvUUpCySljQvYKTon-.png" />
 
 **Реликвия и артефакт**
 
@@ -55,22 +55,22 @@ https://media.discordapp.net/attachments/614028663003807774/614468515428302878/K
 
 Начальный глифбилд - 65 уровень, 0 талантов.
 
-https://cdn.discordapp.com/attachments/614028663003807774/614468881615945728/4gz_JtO0QbUrvA35Gbjn7ejNOV7Z__GiUdCnaAYQbQ3G8j7fo6dPj8SaMvpcQeZNFxvQsz2RMJ6ngtySrTCy_UA6_gJFhFLwLxzL.png
+<img src="https://cdn.discordapp.com/attachments/614028663003807774/614468881615945728/4gz_JtO0QbUrvA35Gbjn7ejNOV7Z__GiUdCnaAYQbQ3G8j7fo6dPj8SaMvpcQeZNFxvQsz2RMJ6ngtySrTCy_UA6_gJFhFLwLxzL.png" />
 
 Средний глифбилд - 65 уровень, талант [Тройной удар]Перезарядка прокачан на 8 уровень+, [Огненная атака]Цепная реакция прокачан на 10 уровень.
 
-https://cdn.discordapp.com/attachments/614028663003807774/614468944585293841/B5tpsfZ6824fHH5cBrWctAVuNtAF_N-EbsBvHuB3VuRZWyEt7FcYPeNLnM5tYjnEGN0-Z4tueOQYfGrARtLuaq8JXhGvZD1SIM38.png
+<img src="https://cdn.discordapp.com/attachments/614028663003807774/614468944585293841/B5tpsfZ6824fHH5cBrWctAVuNtAF_N-EbsBvHuB3VuRZWyEt7FcYPeNLnM5tYjnEGN0-Z4tueOQYfGrARtLuaq8JXhGvZD1SIM38.png" />
 
 Конечный глифбилд - 70 уровень, имеются все необходимые таланты.
 
-https://cdn.discordapp.com/attachments/614028663003807774/614469023475826688/U7LB8Dr_3raxYK1znzlXTfpn37lDBYIydNBmgV-6w_JL2rH4JPXZOr7bSPf28MHwT0BJNOdOYE42pQyvbEoObi1BHkyVvkPJV0JQ.png
+<img src="https://cdn.discordapp.com/attachments/614028663003807774/614469023475826688/U7LB8Dr_3raxYK1znzlXTfpn37lDBYIydNBmgV-6w_JL2rH4JPXZOr7bSPf28MHwT0BJNOdOYE42pQyvbEoObi1BHkyVvkPJV0JQ.png" />
 
 Может изменяться по желанию. На данном этапе образуется “свой стиль игры”, поэтому конечные глифбилды у разных людей могут отличаться.
 *Глиф на Молниеносный выпад получается после достижения 70 уровня.
 
 **Таланты**
 
-https://media.discordapp.net/attachments/614028663003807774/614469142421962787/OYqhsecfLtoXvzGGFxHw8nLKB50FmAYkKOmDYd8EtATxoFAEVOg6ifzDOZrDvxi1gO_Yky6YW2kM5f5EkoSRsxFy45bI1QaBmNUn.png
+<img src="https://media.discordapp.net/attachments/614028663003807774/614469142421962787/OYqhsecfLtoXvzGGFxHw8nLKB50FmAYkKOmDYd8EtATxoFAEVOg6ifzDOZrDvxi1gO_Yky6YW2kM5f5EkoSRsxFy45bI1QaBmNUn.png" />
 
 Бесспорно, в первую очередь качается [Общее]Сильная атака, затем последовательность такая:
 
@@ -102,7 +102,7 @@ https://media.discordapp.net/attachments/614028663003807774/614469142421962787/O
 Грубо говоря: 
     сила > крит, константный урон > шансовый, сила+крит для всех умений > шанс крита одного.
     
-https://media.discordapp.net/attachments/614028663003807774/614471970196815872/ZBuTm__3VEwje7IbTmQhGM45O49PLVaW5QaMVDExynsQZPhN4CrSegUiTMJGtqffGACFTAMwOUayxdJ74MCy99QUCmPCsifYzi3M.png
+<img src="https://media.discordapp.net/attachments/614028663003807774/614471970196815872/ZBuTm__3VEwje7IbTmQhGM45O49PLVaW5QaMVDExynsQZPhN4CrSegUiTMJGtqffGACFTAMwOUayxdJ74MCy99QUCmPCsifYzi3M.png" />
 
 --------------------------------------------------------------
 
@@ -126,7 +126,7 @@ I Основной талиф.
 Прокачивается по желанию.
 Используется при фарме бамов, как дополнительный способ их обездвижить.
 
-https://media.discordapp.net/attachments/614028663003807774/614472091017936907/cee7jR7z35qnaIU4eYh3UnSWBxHoZil1wBtJgemC2kh1Cr4-7SANE1hpdqu4Q9gXa1TrZC2a_9UjjPd8rkjrMY_YQbPHqN_suPHd.png
+<img src="https://media.discordapp.net/attachments/614028663003807774/614472091017936907/cee7jR7z35qnaIU4eYh3UnSWBxHoZil1wBtJgemC2kh1Cr4-7SANE1hpdqu4Q9gXa1TrZC2a_9UjjPd8rkjrMY_YQbPHqN_suPHd.png" />
 
 --------------------------------------------------------------
 
@@ -161,33 +161,33 @@ II Основной талиф.
 Прокачивать не рекомендуется.
 Пожалуй самый бесполезный талиф, уступающий по кпд двум предыдущим.
 
-https://media.discordapp.net/attachments/614028663003807774/614472152187666433/osSPi5QvPRg8w1gwpmq3QcU_La7VPsPe7YWZf42zPKNOg-7Q8HUdLfFFMcQBhT5v5EKjXBhck49hXKyYBUv7ugitorWLIzDNaVoA.png?width=327&height=676
+<img src="https://media.discordapp.net/attachments/614028663003807774/614472152187666433/osSPi5QvPRg8w1gwpmq3QcU_La7VPsPe7YWZf42zPKNOg-7Q8HUdLfFFMcQBhT5v5EKjXBhck49hXKyYBUv7ugitorWLIzDNaVoA.png" />
 
 
 **Ротации**
 
-https://media.discordapp.net/attachments/614028663003807774/615465870470283275/5ae85038feb26900.png
+<img src="https://media.discordapp.net/attachments/614028663003807774/615465870470283275/5ae85038feb26900.png" />
 
-https://media.discordapp.net/attachments/614028663003807774/615466568872230913/2.png
+<img src="https://media.discordapp.net/attachments/614028663003807774/615466568872230913/2.png" />
 
-https://cdn.discordapp.com/attachments/614028663003807774/615467059027116039/3.png
+<img src="https://cdn.discordapp.com/attachments/614028663003807774/615467059027116039/3.png" />
 
 Последнее обновление: 02.07.2019
 Создано: 14.05.2019
 Авторы: EmptyHeart и Fatalistype
 
-https://cdn.discordapp.com/attachments/614028663003807774/615518540656541716/8.png
+<img src="https://cdn.discordapp.com/attachments/614028663003807774/615518540656541716/8.png" />
 
 _**ПВП**_
 
-https://media.discordapp.net/attachments/614028663003807774/614473406112333835/I9Q33LnntV7QrUkzDACpFfPjPoW-8ru_XXri79yEebJOq3Rm0vDTY-R-9v6BjmzsbYBnb_3lv2QBEu7mHDjdptVH0jRr4hZ7yXPf.png
+<img src="https://media.discordapp.net/attachments/614028663003807774/614473406112333835/I9Q33LnntV7QrUkzDACpFfPjPoW-8ru_XXri79yEebJOq3Rm0vDTY-R-9v6BjmzsbYBnb_3lv2QBEu7mHDjdptVH0jRr4hZ7yXPf.png" />
 
-https://media.discordapp.net/attachments/614028663003807774/614473431978737665/n43rxX_MNnVljXl5WhrL1W8lGRn_31SfWPCfk_ujNzXCOLOuydNaY_UFv-meqIoOxxHfKLd2I8enbrPFuzevBAniH8B7pFagHW1z.png
+<img src="https://media.discordapp.net/attachments/614028663003807774/614473431978737665/n43rxX_MNnVljXl5WhrL1W8lGRn_31SfWPCfk_ujNzXCOLOuydNaY_UFv-meqIoOxxHfKLd2I8enbrPFuzevBAniH8B7pFagHW1z.png" />
 
-https://media.discordapp.net/attachments/444427327116541952/539509122878406666/unknown.png
+<img src="https://media.discordapp.net/attachments/444427327116541952/539509122878406666/unknown.png" />
 
-https://media.discordapp.net/attachments/614028663003807774/615481213582442508/4.png
+<img src="https://media.discordapp.net/attachments/614028663003807774/615481213582442508/4.png" />
 
-https://cdn.discordapp.com/attachments/614028663003807774/615481874856280064/5.png
+<img src="https://cdn.discordapp.com/attachments/614028663003807774/615481874856280064/5.png" />
 
-https://cdn.discordapp.com/attachments/614028663003807774/615482152217215005/6.png
+<img src="https://cdn.discordapp.com/attachments/614028663003807774/615482152217215005/6.png" />
