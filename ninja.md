@@ -171,6 +171,15 @@ II Основной талиф.
 
 https://media.discordapp.net/attachments/614028663003807774/614472152187666433/osSPi5QvPRg8w1gwpmq3QcU_La7VPsPe7YWZf42zPKNOg-7Q8HUdLfFFMcQBhT5v5EKjXBhck49hXKyYBUv7ugitorWLIzDNaVoA.png?width=327&height=676
 
+
+Ротации
+
+https://media.discordapp.net/attachments/614028663003807774/615465870470283275/5ae85038feb26900.png
+
+https://media.discordapp.net/attachments/614028663003807774/615466568872230913/2.png
+
+https://cdn.discordapp.com/attachments/614028663003807774/615467059027116039/3.png
+
 Последнее обновление:  02.07.2019
 Создано:  14.05.2019
 Авторы:  Fatalistype и EmptyHeart
