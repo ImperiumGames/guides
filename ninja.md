@@ -176,7 +176,7 @@ https://cdn.discordapp.com/attachments/614028663003807774/615467059027116039/3.p
 Создано: 14.05.2019
 Авторы: EmptyHeart и Fatalistype
 
-https://media.discordapp.net/attachments/469842323875037190/608275377722359817/tupaya_rusnya.png?width=1202&height=677
+https://cdn.discordapp.com/attachments/614028663003807774/615518540656541716/8.png
 
 _**ПВП**_
 
