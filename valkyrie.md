@@ -39,3 +39,10 @@
 69-70
 
 <img src="https://media.discordapp.net/attachments/613821828540006429/614020624477585418/70rotation.png?width=345&height=677 " />
+
+#### **Гайд**
+
+https://sites.google.com/site/valkyrieguide/home
+
+#### **Ссылка на дискорд**
+https://discord.gg/Dhd2faf
