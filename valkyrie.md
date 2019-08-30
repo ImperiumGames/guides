@@ -8,16 +8,34 @@
 
 Далее будут лежать скриншоты примерных ротаций и глифов на 65-66, 67-68 и 69-70 уровень и ссылка на обновляемый дискорд валькирий, англоязычный.
 
+#### **Глифы**
+
+65 глифы
+
 <img src="https://media.discordapp.net/attachments/613821828540006429/614020052173324288/65.png " />
+
+68-69
 
 <img src="https://media.discordapp.net/attachments/613821828540006429/614020223867158528/69.png " />
 
+Волны для Бахаара
+
 <img src="https://media.discordapp.net/attachments/613821828540006429/614020302384398345/waves.png " />
+
+70
 
 <img src="https://media.discordapp.net/attachments/613821828540006429/614020404859764738/minmax70.png " />
 
+#### **Ротации**
+
+65
+
 <img src="https://media.discordapp.net/attachments/613821828540006429/614020517363449856/65-1.png?width=344&height=676 " />
 
+67-68
+
 <img src="https://media.discordapp.net/attachments/613821828540006429/614020561701568522/67-68.png " />
+
+69-70
 
 <img src="https://media.discordapp.net/attachments/613821828540006429/614020624477585418/70rotation.png?width=345&height=677 " />
