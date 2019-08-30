@@ -10,14 +10,14 @@
 
 <img src="https://media.discordapp.net/attachments/613821828540006429/614020052173324288/65.png " />
 
-<img src="https://cdn.discordapp.com/attachments/613821828540006429/614020223867158528/69.png " />
+<img src="https://media.discordapp.net/attachments/613821828540006429/614020223867158528/69.png " />
 
-<img src="https://cdn.discordapp.com/attachments/613821828540006429/614020302384398345/waves.png " />
+<img src="https://media.discordapp.net/attachments/613821828540006429/614020302384398345/waves.png " />
 
-<img src="https://cdn.discordapp.com/attachments/613821828540006429/614020404859764738/minmax70.png " />
+<img src="https://media.discordapp.net/attachments/613821828540006429/614020404859764738/minmax70.png " />
 
-<img src="https://cdn.discordapp.com/attachments/613821828540006429/614020517363449856/65-1.png " />
+<img src="https://media.discordapp.net/attachments/613821828540006429/614020517363449856/65-1.png?width=344&height=676 " />
 
-<img src="https://cdn.discordapp.com/attachments/613821828540006429/614020561701568522/67-68.png " />
+<img src="https://media.discordapp.net/attachments/613821828540006429/614020561701568522/67-68.png " />
 
 <img src="https://media.discordapp.net/attachments/613821828540006429/614020624477585418/70rotation.png?width=345&height=677 " />
