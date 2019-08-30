@@ -179,6 +179,10 @@ II Основной талиф.
 
 <img src="https://cdn.discordapp.com/attachments/614028663003807774/615518540656541716/8.png" />
 
+#### **Гайд сб**
+
+ https://www.youtube.com/watch?v=Sgai3AZU1U0&t=7s 
+
 ### _**ПВП**_
 
 <img src="https://media.discordapp.net/attachments/614028663003807774/614473406112333835/I9Q33LnntV7QrUkzDACpFfPjPoW-8ru_XXri79yEebJOq3Rm0vDTY-R-9v6BjmzsbYBnb_3lv2QBEu7mHDjdptVH0jRr4hZ7yXPf.png" />
@@ -192,3 +196,5 @@ II Основной талиф.
 <img src="https://cdn.discordapp.com/attachments/614028663003807774/615481874856280064/5.png" />
 
 <img src="https://cdn.discordapp.com/attachments/614028663003807774/615482152217215005/6.png" />
+
+
